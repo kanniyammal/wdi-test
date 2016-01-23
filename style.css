@@ -1,0 +1,32 @@
+body {
+width:960px;
+font-family:sans-seriff;
+margin:0px auto;
+background-color : #ffb366;
+font-family:sans-seriff;
+font-size:15px;
+}
+
+h2 { color:  #7f00ff;
+font-weight:bold;
+font-family:sans-seriff;
+font-size:20px;}
+
+.textBox
+{
+width:200px;
+padding:6px;
+BORDER:2PX SOLID  #996633;
+border-radius:4px;
+margin-top:5px;
+}
+.Button{
+width:200px;
+padding:6px;
+background-color :#ff0000;
+color: #80ffff;
+font-weight:italics;
+}
+p{
+width:200px;
+}
